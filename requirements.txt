@@ -1,0 +1,8 @@
+Django
+djangorestframework
+drf-spectacular
+drf-spectacular-sidecar
+django-taggit
+django-extensions
+django-jazzmin
+icecream
