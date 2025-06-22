@@ -176,5 +176,3 @@ Create a second post.
 }
 ```
 </details>
-
-Postman scary doc - https://lnkd.in/dym68Acu.
